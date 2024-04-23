@@ -44,5 +44,3 @@ Subject CN = usca.edu: The common name of the subject is set to usca.edu.
 Subject Alternative Name: The certificate includes SANs for www.usca.edu and specified IP addresses.
 Certificate Version V3: The certificate is version 3, supporting both client and server authentication.
 
-Conclusion:
-Following the outlined steps and commands, we have successfully created a self-signed X.509 certificate that meets all specified requirements for authenticating an HTTPS application. The certificate can now be used for securing communication over the web.
